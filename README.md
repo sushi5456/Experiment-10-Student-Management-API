@@ -233,9 +233,3 @@ Through this project, the following concepts are demonstrated:
 The Student Management API successfully demonstrates how to build a simple backend application for managing student records. By combining Node.js, Express.js, and SQLite, the project provides the basic functionality required to create, retrieve, update, and delete student information.
 
 This project helps develop a practical understanding of REST API development, database integration, and backend application design.
-
-## 👩‍💻 Author
-
-**Padarthi Divyasri**
-
-GitHub Repository: [Experiment10](https://github.com/padarthidivyasri/Experiment10)
